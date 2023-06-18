@@ -1,0 +1,91 @@
+body {
+  background-color: #ece8e8;
+  font-family: sans-serif;
+}
+.wrapper {
+  margin: 0 auto;
+  width: 700px;
+  background-color: #fff;
+  padding: 20px 45px;
+}
+
+.header-image {
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+}
+
+.my-name {
+  text-align: center;
+}
+.contacts-container {
+  text-align: center;
+  color: gray;
+}
+.contacts-link:visited {
+  color: grey;
+  text-decoration: none;
+}
+
+.contacts-link:link {
+  text-decoration: none;
+  color: grey;
+}
+
+.profession-title {
+  border-top: 2px solid #000;
+  border-bottom: 1px solid #000;
+  font-weight: 100;
+  color: rgb(97, 97, 97);
+}
+
+.profession-description-accent {
+  color: black;
+}
+
+.profession-description {
+  color: rgb(97, 97, 97);
+}
+
+.skills-title {
+  border-top: 2px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+.tech-description {
+  color: rgb(97, 97, 97);
+}
+
+.databased-list {
+  margin-left: -12px;
+  color: rgb(97, 97, 97);
+}
+
+.databased-list-item-accent{
+  color: black;
+}
+
+.environment-contant {
+  margin-bottom: 40px;
+  color: rgb(97, 97, 97);
+}
+
+.experience-title {
+  border-top: 2px solid #000;
+  border-bottom: 1px solid #000;
+}
+.position-period {
+  display: flex;
+  align-items: center;
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+
+.period-accent {
+  margin-left: -14px;
+  font-weight: bold;
+}
+.scalified-container {
+  margin-left: -20px;
+  color: rgb(97, 97, 97);
+}
