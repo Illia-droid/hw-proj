@@ -12,7 +12,7 @@ body {
 .header-image {
   display: block;
   margin: 0 auto;
-  height: 200px;
+  height: 120px;
 }
 
 .my-name {
@@ -61,8 +61,16 @@ body {
   color: rgb(97, 97, 97);
 }
 
+.databased-list-item{
+  padding-bottom: 5px;
+}
+
 .databased-list-item-accent {
   color: black;
+}
+
+.environment-title{
+  margin-top: -5px;
 }
 
 .environment-contant {
